@@ -1,0 +1,9 @@
+:root {
+    --bg-color-1: blue;
+    --bg-color-2: red;
+    --bg-color-3: green;
+}
+
+.div1 {
+    background-color: var(--bg-color-1);
+}
